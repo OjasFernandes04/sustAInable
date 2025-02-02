@@ -1,4 +1,4 @@
-# Investopedia-Bot
+sustAInable
 ![Investopedia-2017](https://user-images.githubusercontent.com/40627412/136075564-c1179715-164c-4e87-b81c-154adf20fb41.png)
 
 Investopedia-Bot is a beginner-friendly GUI Python program that automates stock trading. The program calculates stock expectancies (measures which stocks are less risky and are expected to make more money), displays stock data and graphs, and recommends the number of shares to buy based on various user-defined variables. Once the user chooses stocks, the program can execute trades automatically.
